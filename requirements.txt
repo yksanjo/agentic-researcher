@@ -1,0 +1,3 @@
+# Agentic Researcher Dependencies
+asyncio
+typing
