@@ -1,5 +1,12 @@
 # agentic-researcher
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agentic-researcher/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agentic-researcher/actions)
+![License](https://img.shields.io/github/license/yksanjo/agentic-researcher)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agentic-researcher)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agentic-researcher)
+
 ## Detailed Description
 
 agentic-researcher is maintained as an industry-grade software project with production-ready engineering practices.  
